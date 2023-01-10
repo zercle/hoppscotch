@@ -1,4 +1,4 @@
-name: Deploy to Cloudflare (production)
+name: Deploy to Zercle Cloudflare (production)
 
 on:
   push:
